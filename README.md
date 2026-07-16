@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Breno Ramon Santana dos Santos, tenho 22 anos e sou de Aracaju - Sergipe. Concluí o ensino médio no Colégio Jardins. Atualmente, estou cursando Ciência da Computação na Universidade Tiradentes (UNIT). Gosto muito de tecnologia e programação.
+Me chamo Breno Ramon Santana dos Santos, tenho 22 anos e sou de Aracaju - Sergipe. Concluí o ensino médio no Colégio Jardins. Atualmente sou formado em Ciência da Computação pela Universidade Tiradentes (UNIT). Gosto muito de tecnologia e programação.
 
 <p align="left">
       <a href="https://github.com/breeramon?tab=followers">
