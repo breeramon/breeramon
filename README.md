@@ -2,7 +2,11 @@
 
 **`Analista Desenvolvedor`**
 
-Me chamo Breno Ramon Santana dos Santos, tenho 22 anos e sou de Aracaju - Sergipe. Concluí o ensino médio no Colégio Jardins. Atualmente sou formado em Ciência da Computação pela Universidade Tiradentes (UNIT) e estou cursando Pós Graduação em Análise de Dados e Inteligência Artificial na Anhanguera. Gosto muito de tecnologia e programação.
+Me chamo Breno Ramon Santana dos Santos, tenho 22 anos e sou de Aracaju - Sergipe. 
+
+Concluí o ensino médio no Colégio Jardins. Atualmente sou formado em Ciência da Computação pela Universidade Tiradentes (UNIT) e estou cursando Pós Graduação em Análise de Dados e Inteligência Artificial na Anhanguera. 
+
+Gosto muito e tenho muita curiosidade sobre a área da tecnologia, programação, jogos, futebol e IA.
 
 <p align="left">
       <a href="https://github.com/breeramon?tab=followers">
